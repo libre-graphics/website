@@ -1,0 +1,13 @@
+future: true
+title: "Libre Graphics"
+domain: "libre.graphics"
+url: "https://libre.graphics"
+description: "Promoting libre graphics software."
+permalink: /:categories/:title:output_ext
+exclude:
+  - README.md
+  - CNAME
+  - LICENSE
+  - .gitignore
+  - tools/
+  - pdf/
